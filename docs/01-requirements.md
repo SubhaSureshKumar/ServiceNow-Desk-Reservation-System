@@ -1,7 +1,7 @@
 # Project Requirements — Hybrid Asset & Desk Reservation System
 
 ## Problem Statement
-Organizations with hybrid work need a way to allocate hot-desks, track loaned hardware (monitors, dongles), and ensure equipment is sanitized/returned between uses.
+Organizations with hybrid work finds it hard to allocate hot-desks, track loaned hardware (monitors, dongles), and ensure equipment is sanitized/returned between uses.
 
 ## User Roles
 - Employee: can create/view/edit only their own reservations
